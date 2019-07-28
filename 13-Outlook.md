@@ -31,6 +31,7 @@ categories: ["2"]
 不建议完全使用网页版本，建议使用通过以下邮箱客户端进行访问，方便及时收信：
 
 - 邮件与日历（Windows 10）
+- 邮件（macOS 系统自带）
 - Outlook （移动端, Windows, macOS）
 
 如需选择账户类型，应选择 Exchange。
